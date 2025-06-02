@@ -113,4 +113,4 @@ Push lên branch (git push origin feature/your-feature)
 Tạo Pull Request
 
 ## License
-MIT © [KD-Orbitan](http://https://github.com/KD-Orbitan)
+MIT © [KD-Orbitan](https://github.com/KD-Orbitan)
